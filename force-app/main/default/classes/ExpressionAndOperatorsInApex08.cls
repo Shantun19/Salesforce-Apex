@@ -81,5 +81,6 @@ public class ExpressionAndOperatorsInApex08 {
 
         // Ternary operator 
         String text = firstVal ? 'salesforce' : 'java'; // If firstVal is true, then 'salesforce', otherwise 'java'
+        
     }
 }
