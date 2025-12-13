@@ -63,7 +63,7 @@ class Student {
 
 /*
     3.Inheritance
-        - inheritnace in OOPs defines the chlld class will inherit the property from the parent class.
+        - inheritnace in OOPs defines the chlld class will inherit the behaviours from the parent class.
         example - every shape has its area and perimeter
             a public interface with common method decleration not defination that will be shred with among different classes.
 
